@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Threatened by shadows at night, but exposed in the light
 Use the left arrow to go back!
